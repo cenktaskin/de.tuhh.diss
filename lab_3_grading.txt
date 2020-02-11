@@ -1,0 +1,6 @@
+violated:
+- short and concise method
+bonus points: 2
+notes:
+- do not put jar-files in git
+- use class variables instead of main method variables
